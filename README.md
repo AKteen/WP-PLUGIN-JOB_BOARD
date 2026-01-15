@@ -109,6 +109,3 @@ When the plugin is deleted, all data is automatically removed:
 
 GPL-2.0+
 
-## Author
-
-Built following rtCamp coding standards.
